@@ -1,0 +1,14 @@
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\bin\Debug\net7.0\EstruturaDados.exe
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\bin\Debug\net7.0\EstruturaDados.deps.json
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\bin\Debug\net7.0\EstruturaDados.runtimeconfig.json
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\bin\Debug\net7.0\EstruturaDados.dll
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\bin\Debug\net7.0\EstruturaDados.pdb
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.AssemblyInfoInputs.cache
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.AssemblyInfo.cs
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.csproj.CoreCompileInputs.cache
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.dll
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\refint\EstruturaDados.dll
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.pdb
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\EstruturaDados.genruntimeconfig.cache
+D:\C#\Treinos\Estrutura de dados\EstruturaDados\EstruturaDados\obj\Debug\net7.0\ref\EstruturaDados.dll
